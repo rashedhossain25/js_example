@@ -1,0 +1,60 @@
+js notes----
+
+4 places 
+     extranal file--(recomended)
+
+
+selector--- '' "" single cotation recomended
+
+    id-      getElementById()
+    class-   getElementsByClassName()
+    tag--      
+
+function--->Call 
+    pre
+    user
+
+funtion extra vlue---paramitter ()
+
+keyword
+
+statment-menningfull line of code
+
+
+
+event-
+
+     mouse--click,dbclick,mouseover,onmouseenter,out
+     keyboard--
+
+output-
+
+innerHTML-
+dovument.write()
+console()
+window.alert()  
+
+
+operator--
+    + adition
+    - substraction
+    * multipliction
+    / divison
+    . concation,string
+    = assiengment
+
+
+datatype---
+
+note: text typer data lekhar somoy "" dite hoye..
+
+  text-----hello world--string
+  num----- 100------num
+
+
+  variable---
+
+  bugfix-----
+
+      inspect and see console code error    
+
