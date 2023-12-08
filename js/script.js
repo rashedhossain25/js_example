@@ -144,6 +144,29 @@ $(document).ready(function(){
     $('#sh_h3').toggle(300);
 
     });
+        //fade out,fade in,fade toggle
+    $('#out').on( 'click', function(){
+
+        $('#f_all').fadeOut();
+    });
+    $('#in').on( 'click', function(){
+
+        $('#f_all').fadeIn();
+    });
+    $('#toggl').on( 'click', function(){
+
+        $('#f_all').fadeToggle(300);
+    });
+    
+
+    //slide up slide down
+
+    $('.btn').on( 'click', function(){
+
+        $('#pp1').slideUp(2000).slideDown(2000);
+    });
+
+
 
 
 
