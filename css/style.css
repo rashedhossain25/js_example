@@ -1,0 +1,9 @@
+.ques{
+	padding: 20px;
+	cursor: pointer;
+}
+.answ{
+	padding: 20px;
+	cursor: pointer;
+	display: none;
+}
